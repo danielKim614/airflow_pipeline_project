@@ -1,6 +1,6 @@
 # Airflow Pipeline Project
 ## Introduction
-- 이 프로젝트는 airflow를 사용하여 3D 데이터의 변환을 파이프라인입니다.<br/>
+- 이 프로젝트는 airflow를 사용하여 3D 데이터의 변환부터 적재까지를 다룬 파이프라인입니다.<br/>
 - 서로 같은 두 mesh 데이터의 landmark를 구하여 다른 mesh 데이터에 이를 적용하여, 필요한 데이터를 export하는 것이 최종 목표입니다.
 - 자세한 로직은 대외비이기 때문에 익명화하였습니다. (A-E 알파벳으로 표현 및 [ ]로 표현)
 ## Environments
